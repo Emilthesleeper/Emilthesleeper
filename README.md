@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Emilthesleeper
 - 👀 I’m interested in Discord Bots written in Python
-- 🌱 I’m currently learning Kivy
+- 🌱 I’m currently learning Kivy (LOL not anymore, always something different, often i use web requests ... not requests, actually from requests import https_session)
 - 📫 How to reach me?
 - ✅ Discord: Emil#2542
