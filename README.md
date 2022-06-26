@@ -1,4 +1,4 @@
- 👋 Hi, I’m @Emilthesleeper
+- 👋 Hi, I’m @Emilthesleeper
 - 👀 I’m interested in Discord Bots written in Python
 - 📫 How to reach me?
 - ✅ Discord: Emil#2542
