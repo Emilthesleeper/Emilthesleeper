@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Emilthesleeper
-- 👀 I’m interested in Discord Bots written in Python
+- 👀 I’m interested in Discord Bots written in Python, minecraft, trains, valorant
 - 📫 How to reach me?
-- ✅ Discord: Emil#2542
+- ✅ Discord: @emilsleeper
 
 Owner of [Discord Development](https://github.com/DiscordDevelopment/)
 
