@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Emilthesleeper
-- 👀 I’m interested in Discord Bots written in Python, minecraft, trains, valorant
-- 📫 How to reach me?
+- 👀 Python, HTML, CSS, (JS), (Java)
+- Valorant, Minecraft
+- 🚂 Train Sim World Modder
 - ✅ Discord: @emilsleeper
 
-Owner of [Discord Development](https://github.com/DiscordDevelopment/)
+[Train Launch System](https://github.com/Train-Launch-System)
 
-![banner-dsc-dev white (1)](https://user-images.githubusercontent.com/91831917/175806430-956ed0f1-4b32-4495-8847-0557086c1727.png)
+![logo](https://avatars.githubusercontent.com/u/175557559?s=200&v=4)
